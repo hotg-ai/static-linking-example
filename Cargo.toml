@@ -1,0 +1,2 @@
+[workspace]
+members = ["dependency", "host", "guest"]
