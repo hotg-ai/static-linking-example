@@ -114,5 +114,7 @@ Outstanding questions:
   single `*.wasm` file, using the exports from one module to satisfy the
   imports from the other?
 - Are there easier ways to achieve the same result?
+- How feasible is it for Wasmer to have a fallback engine which interprets
+  WebAssembly instead of doing JIT or AOT compiling?
 
 [wit-bindgen]: https://github.com/bytecodealliance/wit-bindgen/
